@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../green-table"
+		},
+		{
+			"path": "../../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "green-table"
+	}
+}
